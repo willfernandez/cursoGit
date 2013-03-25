@@ -27,7 +27,7 @@
 
 /** Error reporting */
 error_reporting(E_ALL);
-//aca hize un cambio
+//aca hize un cambio en la rama de mejorandola
 date_default_timezone_set('Europe/London');
 
 /** PHPExcel */
